@@ -1,0 +1,14 @@
+com/bharat_industries/ReactNativeFlipper.java
+ com.bharat_industries.ReactNativeFlipper
+ com.bharat_industries.ReactNativeFlipper$1
+ com.bharat_industries.ReactNativeFlipper$2
+ com.bharat_industries.ReactNativeFlipper$2$1
+com/bharat_industries/MainActivity.java
+ com.bharat_industries.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/bharat_industries/BuildConfig.java
+ com.bharat_industries.BuildConfig
+com/bharat_industries/MainApplication.java
+ com.bharat_industries.MainApplication
+ com.bharat_industries.MainApplication$1
